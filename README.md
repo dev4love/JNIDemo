@@ -1,0 +1,1 @@
+JNI project demo created with Android Studio 2.1. refer:[Create your first jni application on android](http://www.ssaurel.com/blog/create-your-first-jni-application-on-android-with-the-ndk/?utm_source=androiddevdigest)
